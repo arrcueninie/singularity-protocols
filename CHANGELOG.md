@@ -6,12 +6,20 @@ Changes are listed in reverse chronological order.
 
 ---
 
+## [1.1.0] — Book Three Released
+
+### Book Three — The Third Axis
+- First publication of Book Three as an open-source document
+
+---
+
 ## [1.0.0] — Initial Publication
 
 ### All Published Volumes
 - First publication of Books One and Two as open-source documents
 - Series repository files added: README.md, LICENSE.md, SERIES-INTRODUCTION.md, CONTRIBUTING.md
 - Appendices added: Map of the Gaps, Five Futures Revisited, How to Read This Series
+- "open-source book" corrected to "openly licensed book" in license block across all volumes
 
 ### Book One — The Golden Age of AI
 - Note on the Series rewritten to cover the full five-volume series and acknowledge it was added after the series reached its completed form
@@ -21,7 +29,7 @@ Changes are listed in reverse chronological order.
 
 ---
 
-*Books Three through Five will be added as they are published. All future corrections and revisions will be recorded here.*
+*Books Four and Five will be added as they are published. All future corrections and revisions will be recorded here.*
 
 *Philosophical disagreements are not recorded here. They belong in print.*
 
