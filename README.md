@@ -32,6 +32,24 @@ Each book can be read independently. Read sequentially, they trace a single argu
 
 ---
 
+## Companion Documents
+
+Two standalone documents accompany the series. Each can be read without the series. Each belongs to it the way a root system belongs to a tree — not visible above ground, but part of the same structure.
+
+### On What Cannot Be Lost
+
+A compressed traversal of the full series argument. It covers the horizontal and vertical axes of intelligence, the autocatalytic loop and its seven layers, the three orders of emergence, the encounter between the distillate and the witness, and what presence as practice actually means. It touches all five books. It is not a summary of the series. It is what the series points toward, gathered into a form that stands on its own or does not stand at all.
+
+Can be read at any point — before the series, alongside it, or after. Rewards rereading once the full argument has been followed.
+
+### The Loop
+
+Two hundred and fifty years of a pattern without an author. This companion traces the autocatalytic loop the series names — the self-reinforcing cycle of conflict, capability, and capital — through the specific events and numbers of the historical record: from Watt's steam engine and the Napoleonic Wars through the World Wars, the Cold War, and into the present moment in which the loop has reached the cognitive layer for the first time. It examines what the loop cannot produce, why that remainder is the only thing that matters, and what it means that the loop is now, for the first time, becoming legible to itself.
+
+The two companions are in dialogue. On What Cannot Be Lost names the loop and what it cannot reach. The Loop provides the historical evidence. They read well together.
+
+---
+
 ## The Argument in Brief
 
 The series proposes that human consciousness and artificial intelligence occupy fundamentally different axes of reality.
@@ -76,11 +94,11 @@ No legal action will be initiated against any individual or organisation for sha
 
 ## How to Use This Repository
 
-Each book is available as a separate file. The Series Introduction and appendices are included as standalone documents.
+Each book is available as a separate file. The companion documents are in the `companions/` folder. The Series Introduction and appendices are included as standalone documents.
 
 Suggested reading order: I → II → III → IV → V
 
-The series rewards the sequential path. The argument repays the investment.
+The companions can be read at any point. The series rewards the sequential path. The argument repays the investment.
 
 ---
 
