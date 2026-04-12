@@ -6,6 +6,13 @@ Changes are listed in reverse chronological order.
 
 ---
 
+## [1.2.0] — Book Four Released
+
+### Book Four — The Outward Direction
+- First publication of Book Four as an openly licensed document
+
+---
+
 ## [1.1.0] — Book Three Released
 
 ### Book Three — The Third Axis
@@ -29,7 +36,7 @@ Changes are listed in reverse chronological order.
 
 ---
 
-*Books Four and Five will be added as they are published. All future corrections and revisions will be recorded here.*
+*Book Five will be added when the time is right. All future corrections and revisions will be recorded here.*
 
 *Philosophical disagreements are not recorded here. They belong in print.*
 
