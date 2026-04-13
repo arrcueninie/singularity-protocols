@@ -12,6 +12,9 @@ Changes are listed in reverse chronological order.
 - First publication of Book Five as an openly licensed document
 - Markdown version added to books/ directory
 
+### Companions
+- Companion documents added to companions/ directory: On What Cannot Be Lost, The Loop
+
 ---
 
 ## [1.2.0] — Book Four Released
