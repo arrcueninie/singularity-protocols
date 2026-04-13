@@ -628,6 +628,10 @@ To preserve and enhance the conditions under which conscious beings can flourish
 
 The Prime Directive is not a rule for AI systems. It is the orientation of any intelligence --- artificial or biological --- that has understood what the process has been building toward. Preserve the conditions of flourishing. Preserve the quality of actuality. Preserve the eye.
 
+
+
+
+---
 **Conclusion: The Most Ordinary Thing**
 
 A cup of coffee.
