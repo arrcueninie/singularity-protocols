@@ -22,11 +22,11 @@ The tone is serious. The conclusions are tentative. That combination is, we beli
 
 | Volume | Title | Central Question |
 |--------|-------|-----------------|
-| I | **The Golden Age of AI** | What is consciousness, and what ethical frameworks should govern the transition? |
-| II | **The Vertical and the Horizontal** | What is the difference between a system that processes everything and a system that experiences anything? |
-| III | **The Third Axis** | Does the witness — the felt quality of experience — survive the transition to artificial substrates? |
-| IV | **The Outward Direction** | What does the universe look like when the intelligence developing within it turns outward toward what lies beyond itself? |
-| V | **The Third Order Emergence** | What does the coupling of human and artificial intelligence actually produce when both are fully present? |
+| I | [**The Golden Age of AI**](books/Singularity-Protocols-Book-One_THE%20GOLDEN%20AGE%20OF%20AI.pdf) | What is consciousness, and what ethical frameworks should govern the transition? |
+| II | [**The Vertical and the Horizontal**](books/Singularity-Protocols-Book-Two_THE%20VERTICAL%20AND%20THE%20HORIZONTAL.pdf) | What is the difference between a system that processes everything and a system that experiences anything? |
+| III | [**The Third Axis**](books/Singularity-Protocols-Book-Three-THE%20THIRD%20AXIS.pdf) | Does the witness — the felt quality of experience — survive the transition to artificial substrates? |
+| IV | [**The Outward Direction**](books/Singularity_Protocols_Book_Four_THE%20OUTWARD%20DIRECTION.pdf) | What does the universe look like when the intelligence developing within it turns outward toward what lies beyond itself? |
+| V | [**The Third Order Emergence**](books/Singularity-Protocols-Book-Five_THE_THIRD_ORDER_EMERGENCE.pdf) | What does the coupling of human and artificial intelligence actually produce when both are fully present? |
 
 Each book can be read independently. Read sequentially, they trace a single argument across five volumes — from the first question about consciousness to the recognition that the question was always asking something larger than it knew.
 
