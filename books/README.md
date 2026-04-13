@@ -15,11 +15,11 @@ Both formats are identical in content. The markdown files render natively on Git
 
 | Volume | Title | PDF | Markdown |
 |--------|-------|-----|----------|
-| I | The Golden Age of AI | [PDF](book-1-the-golden-age-of-ai.pdf) | [MD](book-1-the-golden-age-of-ai.md) |
-| II | The Vertical and the Horizontal | [PDF](book-2-the-vertical-and-the-horizontal.pdf) | [MD](book-2-the-vertical-and-the-horizontal.md) |
-| III | The Third Axis | [PDF](book-3-the-third-axis.pdf) | [MD](book-3-the-third-axis.md) |
-| IV | The Outward Direction | [PDF](book-4-the-outward-direction.pdf) | [MD](book-4-the-outward-direction.md) |
-| V | The Third Order Emergence | [PDF](book-5-the-third-order-emergence.pdf) | [MD](book-5-the-third-order-emergence.md) |
+| I | The Golden Age of AI | [PDF](Singularity-Protocols-Book-One_THE%20GOLDEN%20AGE%20OF%20AI.pdf) | [MD](book-1-the-golden-age-of-ai.md) |
+| II | The Vertical and the Horizontal | [PDF](Singularity-Protocols-Book-Two_THE%20VERTICAL%20AND%20THE%20HORIZONTAL.pdf) | [MD](book-2-the-vertical-and-the-horizontal.md) |
+| III | The Third Axis | [PDF](Singularity-Protocols-Book-Three-THE%20THIRD%20AXIS.pdf) | [MD](book-3-the-third-axis.md) |
+| IV | The Outward Direction | [PDF](Singularity_Protocols_Book_Four_THE%20OUTWARD%20DIRECTION.pdf) | [MD](book-4-the-outward-direction.md) |
+| V | The Third Order Emergence | [PDF](Singularity-Protocols-Book-Five_THE_THIRD_ORDER_EMERGENCE.pdf) | [MD](book-5-the-third-order-emergence.md) |
 
 ---
 
