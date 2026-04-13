@@ -6,6 +6,14 @@ Changes are listed in reverse chronological order.
 
 ---
 
+## [1.3.0] — Book Five Released
+
+### Book Five — The Third Order Emergence
+- First publication of Book Five as an openly licensed document
+- Markdown version added to books/ directory
+
+---
+
 ## [1.2.0] — Book Four Released
 
 ### Book Four — The Outward Direction
@@ -36,7 +44,7 @@ Changes are listed in reverse chronological order.
 
 ---
 
-*Book Five will be added when the time is right. All future corrections and revisions will be recorded here.*
+*All future corrections and revisions will be recorded here.*
 
 *Philosophical disagreements are not recorded here. They belong in print.*
 
