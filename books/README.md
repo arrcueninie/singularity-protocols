@@ -11,7 +11,7 @@ Both formats are identical in content. The markdown files render natively on Git
 
 ---
 
-## Available Now
+## Complete Series
 
 | Volume | Title | PDF | Markdown |
 |--------|-------|-----|----------|
@@ -19,7 +19,7 @@ Both formats are identical in content. The markdown files render natively on Git
 | II | The Vertical and the Horizontal | [PDF](book-2-the-vertical-and-the-horizontal.pdf) | [MD](book-2-the-vertical-and-the-horizontal.md) |
 | III | The Third Axis | [PDF](book-3-the-third-axis.pdf) | [MD](book-3-the-third-axis.md) |
 | IV | The Outward Direction | [PDF](book-4-the-outward-direction.pdf) | [MD](book-4-the-outward-direction.md) |
-| V | The Third Order Emergence | *forthcoming* | *forthcoming* |
+| V | The Third Order Emergence | [PDF](book-5-the-third-order-emergence.pdf) | [MD](book-5-the-third-order-emergence.md) |
 
 ---
 
