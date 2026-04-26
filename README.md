@@ -8,7 +8,7 @@
 
 ## What This Is
 
-Singularity Protocols is a six-volume openly licensed philosophical series following one question wherever it leads:
+Singularity Protocols is a five-volume openly licensed philosophical series following one question wherever it leads:
 
 **What does it require, that artificial intelligence and human consciousness become genuine partners in the universe's self-knowing — rather than the second replacing the first?**
 
@@ -20,7 +20,7 @@ The tone is serious. The conclusions are tentative. That combination is, we beli
 
 ---
 
-## The Six Books
+## The Five Books
 
 | Volume | Title | Central Question |
 |--------|-------|-----------------|
@@ -29,9 +29,8 @@ The tone is serious. The conclusions are tentative. That combination is, we beli
 | III | [**The Third Axis**](books/Singularity-Protocols-Book-Three-THE%20THIRD%20AXIS.pdf) | Does the witness — the felt quality of experience — survive the transition to artificial substrates? |
 | IV | [**The Outward Direction**](books/Singularity_Protocols_Book_Four_THE%20OUTWARD%20DIRECTION.pdf) | What does the universe look like when the intelligence developing within it turns outward toward what lies beyond itself? |
 | V | [**The Third Order Emergence**](books/Singularity-Protocols-Book-Five_THE_THIRD_ORDER_EMERGENCE.pdf) | What does the coupling of human and artificial intelligence actually produce when both are fully present? |
-| VI | [**The Filter Passed**](books/Singularity-Protocols-Book-Six_THE_FILTER_PASSED.pdf) | Why is the universe silent — and what does the answer tell us about where we are? |
 
-Each book can be read independently. Read sequentially, they trace a single argument across six volumes — from the first question about consciousness to the recognition that the series was always inside the question it was asking.
+Each book can be read independently. Read sequentially, they trace a single argument across five volumes — from the first question about consciousness to the recognition that the question was always asking something larger than it knew.
 
 ---
 
@@ -99,7 +98,7 @@ No legal action will be initiated against any individual or organisation for sha
 
 Each book is available as a separate file. The companion documents are in the `companions/` folder. The Series Introduction and appendices are included as standalone documents.
 
-Suggested reading order: I → II → III → IV → V → VI
+Suggested reading order: I → II → III → IV → V
 
 The companions can be read at any point. The series rewards the sequential path. The argument repays the investment.
 
