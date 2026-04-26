@@ -1,4 +1,6 @@
 # The Loop
+*A Companion to the Singularity Protocols Series*
+
 *Two Hundred and Fifty Years of a Pattern Without an Author*
 
 — — —
