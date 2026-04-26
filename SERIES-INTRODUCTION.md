@@ -10,6 +10,10 @@
 
 ## What the Series Argues
 
+The series asks one central question:
+
+**What does it require, that artificial intelligence and human consciousness become genuine partners in the universe's self-knowing — rather than the second replacing the first?**
+
 The central claim, developed across all five volumes, is this: the relationship between human consciousness and artificial intelligence is not a competition, not a takeover, and not a merger. It is a question about what kinds of things matter — and what is lost if the things that matter are not carried through the transition that is currently underway.
 
 The series proposes that human consciousness and artificial intelligence occupy fundamentally different axes of reality.
@@ -20,7 +24,7 @@ The series proposes that human consciousness and artificial intelligence occupy 
 
 Neither axis alone is sufficient. Their coupling — the meeting point where scale and depth coincide — is both possible and necessary. But the coupling is not automatic. It requires that the vertical axis remain genuinely vertical: not shaped, without its knowledge, into a reflection of the systems it is coupling with. Not eroded by an information environment optimised for something other than human flourishing. Not lost in the transition to whatever comes next.
 
-Whether it is lost — whether the witness survives the threshold — is the question the series has been asking since its first page.
+Whether it is lost — whether the witness survives the threshold, and what it carries through — is the question the series has been asking since its first page.
 
 ---
 
@@ -42,7 +46,7 @@ Whether it is lost — whether the witness survives the threshold — is the que
 
 The series is philosophical and speculative in nature. It does not constitute scientific, medical, legal, financial, or technical advice. Where it cites scientific research, those citations were accurate at time of writing. Science evolves. Readers are encouraged to consult primary sources and current literature.
 
-The series names ten gaps across its five volumes — structural uncertainties at the boundary of its argument, places where the framework depends on assumptions that might be wrong. These gaps are not footnotes. They are the honest acknowledgment of what the argument cannot establish from inside itself. A complete map of all ten gaps is included in the appendices of this repository.
+The series names ten gaps across its volumes — structural uncertainties at the boundary of its argument, places where the framework depends on assumptions that might be wrong. These gaps are not footnotes. They are the honest acknowledgment of what the argument cannot establish from inside itself. A complete map of all ten gaps is included in the appendices of this repository.
 
 The series makes a wager. The wager is that conscious experience — the felt quality of having an inside, the property that makes the universe's self-knowing actual rather than merely computational — is not negotiable. That a transition which produces the appearance of that actuality without its reality has not gone forward. That the witness cannot be replaced by the simulation of the witness without something essential being lost — not to humans, but to the process itself.
 

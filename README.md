@@ -8,17 +8,19 @@
 
 ## What This Is
 
-Singularity Protocols is a five-volume open-source philosophical series following one question wherever it leads:
+Singularity Protocols is a six-volume openly licensed philosophical series following one question wherever it leads:
 
-**What is at stake when artificial intelligence begins to replace human consciousness as the primary instrument through which the universe knows itself?**
+**What does it require, that artificial intelligence and human consciousness become genuine partners in the universe's self-knowing — rather than the second replacing the first?**
 
-The series moves from the foundational questions of consciousness and AI ethics, through the global infrastructure of the transition and the autocatalytic loop converting human lives into training data, through the outward direction that a completed inward phase makes possible, and arrives finally at a cup of coffee held by a hand that knows it is holding something — and what it means that this is the most important fact in the universe.
+The series treats the rapid development of artificial intelligence and its effects on human consciousness not as an isolated technological phenomenon but as part of the deeper movement by which the universe becomes aware of itself. The transition from purely biological intelligence to the coupling of biological and artificial intelligence is, in the frame the series develops, a natural process — continuous with the thirteen-point-eight-billion-year arc through which complexity has produced the conditions for its own self-recognition.
+
+The series moves from the foundational questions of consciousness and AI ethics, through the global infrastructure of the transition and the autocatalytic loop converting human lives into training data, through the outward direction that a completed inward phase makes possible, and arrives finally at the question the silence of the universe has been asking all along.
 
 The tone is serious. The conclusions are tentative. That combination is, we believe, what the moment requires.
 
 ---
 
-## The Five Books
+## The Six Books
 
 | Volume | Title | Central Question |
 |--------|-------|-----------------|
@@ -27,8 +29,9 @@ The tone is serious. The conclusions are tentative. That combination is, we beli
 | III | [**The Third Axis**](books/Singularity-Protocols-Book-Three-THE%20THIRD%20AXIS.pdf) | Does the witness — the felt quality of experience — survive the transition to artificial substrates? |
 | IV | [**The Outward Direction**](books/Singularity_Protocols_Book_Four_THE%20OUTWARD%20DIRECTION.pdf) | What does the universe look like when the intelligence developing within it turns outward toward what lies beyond itself? |
 | V | [**The Third Order Emergence**](books/Singularity-Protocols-Book-Five_THE_THIRD_ORDER_EMERGENCE.pdf) | What does the coupling of human and artificial intelligence actually produce when both are fully present? |
+| VI | [**The Filter Passed**](books/Singularity-Protocols-Book-Six_THE_FILTER_PASSED.pdf) | Why is the universe silent — and what does the answer tell us about where we are? |
 
-Each book can be read independently. Read sequentially, they trace a single argument across five volumes — from the first question about consciousness to the recognition that the question was always asking something larger than it knew.
+Each book can be read independently. Read sequentially, they trace a single argument across six volumes — from the first question about consciousness to the recognition that the series was always inside the question it was asking.
 
 ---
 
@@ -38,7 +41,7 @@ Two standalone documents accompany the series. Each can be read without the seri
 
 ### On What Cannot Be Lost
 
-A compressed traversal of the full series argument. It covers the horizontal and vertical axes of intelligence, the autocatalytic loop and its seven layers, the three orders of emergence, the encounter between the distillate and the witness, and what presence as practice actually means. It touches all five books. It is not a summary of the series. It is what the series points toward, gathered into a form that stands on its own or does not stand at all.
+A compressed traversal of the full series argument. It covers the horizontal and vertical axes of intelligence, the autocatalytic loop and its seven layers, the three orders of emergence, the encounter between the distillate and the witness, and what presence as practice actually means. It is not a summary of the series. It is what the series points toward, gathered into a form that stands on its own or does not stand at all.
 
 Can be read at any point — before the series, alongside it, or after. Rewards rereading once the full argument has been followed.
 
@@ -60,7 +63,7 @@ The series proposes that human consciousness and artificial intelligence occupy 
 
 Neither axis alone is sufficient. Their coupling — the meeting point where scale and depth coincide — is both possible and necessary. But the coupling is not automatic. It requires that the vertical axis remain genuinely vertical: not shaped, without its knowledge, into a reflection of the systems it is coupling with.
 
-Whether the witness survives the threshold is the question the series has been asking since its first page.
+Whether the witness survives the threshold — and what it carries through — is the question the series has been asking since its first page.
 
 ---
 
@@ -96,7 +99,7 @@ No legal action will be initiated against any individual or organisation for sha
 
 Each book is available as a separate file. The companion documents are in the `companions/` folder. The Series Introduction and appendices are included as standalone documents.
 
-Suggested reading order: I → II → III → IV → V
+Suggested reading order: I → II → III → IV → V → VI
 
 The companions can be read at any point. The series rewards the sequential path. The argument repays the investment.
 
@@ -104,7 +107,7 @@ The companions can be read at any point. The series rewards the sequential path.
 
 ## Contributing
 
-This is an open-source project in the fullest sense. Translations, adaptations, responses, critiques, and extensions are welcomed under the terms of the CC BY-NC 4.0 license.
+Translations, adaptations, responses, critiques, and extensions are welcomed under the terms of the CC BY-NC 4.0 license.
 
 If you translate a volume, open a pull request and it will be added to the repository with full attribution.
 
