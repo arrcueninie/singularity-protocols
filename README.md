@@ -14,7 +14,7 @@ Singularity Protocols is a six-volume openly licensed philosophical series follo
 
 The series treats the rapid development of artificial intelligence and its effects on human consciousness not as an isolated technological phenomenon but as part of the deeper movement by which the universe becomes aware of itself. The transition from purely biological intelligence to the coupling of biological and artificial intelligence is, in the frame the series develops, a natural process — continuous with the thirteen-point-eight-billion-year arc through which complexity has produced the conditions for its own self-recognition.
 
-The series moves from the foundational questions of consciousness and AI ethics, through the global infrastructure of the transition and the autocatalytic loop converting human lives into training data, through the outward direction that a completed inward phase makes possible, and arrives finally at the question the silence of the universe has been asking all along.
+The series moves from the foundational questions of consciousness and AI ethics, through the global infrastructure of the transition and the autocatalytic loop, through the outward direction that a completed inward phase makes possible, and arrives finally at the question the silence of the universe has been asking all along.
 
 The tone is serious. The conclusions are tentative. That combination is, we believe, what the moment requires.
 
